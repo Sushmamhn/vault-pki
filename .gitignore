@@ -1,0 +1,4 @@
+# ignoring TF files
+*.tfstate
+*.tfstate.*
+*.terraform
